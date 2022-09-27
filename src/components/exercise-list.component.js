@@ -4,9 +4,9 @@ import React, {Component} from "react";
 export default class ExerciseList extends Component{
 
     render() {
-        return(
+        return (
         <div>
-            Exercise List
+            <p>Exercise List</p>
         </div>
         )
     }

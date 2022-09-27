@@ -1,7 +1,7 @@
 
 import React, {Component} from "react";
 
-export default class CreateUse extends Component{
+export default class CreateUser extends Component{
 
     render() {
         return(
